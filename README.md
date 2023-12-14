@@ -28,6 +28,6 @@ The primary goal is to create models that solve different problems in industry.
 Clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/yourusername/Code-Concepts.git
+git clone https://github.com/Ric-Royal/Code-Concepts.git
 cd Code-Concepts
 pip install -r requirements.txt
